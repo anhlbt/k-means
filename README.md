@@ -1,1 +1,1 @@
-# k-means
+improment k-means algorithm
